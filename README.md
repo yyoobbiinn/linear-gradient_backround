@@ -7,4 +7,5 @@
     range bar 를 통해 linear-gradient 의 각을 조절할 수 있다.
    
 (2) 실행
+    
     ![Animation (1)](https://user-images.githubusercontent.com/89966178/154426122-8199e92c-96c5-442d-868a-797da6351a58.gif)
